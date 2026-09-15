@@ -42,8 +42,8 @@ for proj in projects:
 # Contact Section
 st.divider()
 st.header("Get in Touch")
-st.write("📫 Email: your.email@example.com")
+st.write("📫 Email: rachanasys@gmail.com")
 st.markdown(
-    "💼 [LinkedIn](https://linkedin.com) | 🐙"
-    " [GitHub](https://github.com)"
+    "💼 [LinkedIn]https://www.linkedin.com/in/rachana-k-j-260958424/| 🐙"
+    " [GitHub](https://github.com/rachanatec-droid)"
 )
