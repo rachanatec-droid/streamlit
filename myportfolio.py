@@ -4,7 +4,7 @@ import streamlit as st
 st.set_page_config(page_title="My Portfolio", page_icon="🚀", layout="wide")
 
 # Header / Bio
-st.title("Hi, I'm [Your Name] 👋")
+st.title("Hi, I'm [Rachana K J] 👋")
 st.subheader("Data Scientist | Software Developer | Creator")
 st.write(
     "Welcome to my portfolio! Here is a collection of my recent work and projects."
